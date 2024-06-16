@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url(assets/styles/fontiran.css);
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,493&display=swap');
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 493;
+  font-style: italic;
+}

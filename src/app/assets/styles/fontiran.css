@@ -1,0 +1,165 @@
+/**
+*
+*	Name:			IRANSansX Fonts
+*	Version:			3
+*	Author:			Moslem Ebrahimi (moslemebrahimi.com)
+*	Created on:		Apr 22, 2021
+*	Updated on:		Jul 12, 2023
+*	Website:			http://fontiran.com
+*	Copyright:		Commercial/Proprietary Software
+--------------------------------------------------------------------------------------
+فونتایران سنس Xا یک نرم افزار مالکیتی محسوب می شود. جهت آگاهی از قوانین استفاده از این فونت ها لطفا به وب سایت (فونت ایران دات کام) مراجعه نمایید
+--------------------------------------------------------------------------------------
+IRANSansX fonts are considered a proprietary software. To gain information about the laws regarding the use of these fonts, please visit www.fontiran.com 
+--------------------------------------------------------------------------------------
+This set of fonts are used in this project under the license: (.....)
+------------------------------------------------------------------------------------- fonts/-
+*	
+**/
+
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 100;
+	src: url('/assets/fonts/iransans/woff/IRANSansX-Thin.woff') format('woff'),   
+	url('/assets/fonts/iransans/woff2/IRANSansX-Thin.woff2') format('woff2');		
+}
+
+.sans-100{
+	font-family: IRANSansX;
+	font-weight: 100;
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 200;
+	src: url('/assets/fonts/iransans/woff/IRANSansX-UltraLight.woff') format('woff'),   
+	url('/assets/fonts/iransans/woff2/IRANSansX-UltraLight.woff2') format('woff2');	
+}
+
+.sans-200{
+	font-family: IRANSansX;
+	font-weight: 200;
+}
+
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 300;
+	src: url('/assets/fonts/iransans/woff/IRANSansX-Light.woff') format('woff'),   
+	url('/assets/fonts/iransans/woff2/IRANSansX-Light.woff2') format('woff2');		 
+}
+
+.sans-300{
+	font-family: IRANSansX;
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 500;
+	src: url('/assets/fonts/iransans/woff/IRANSansX-Medium.woff') format('woff'),   
+	url('/assets/fonts/iransans/woff2/IRANSansX-Medium.woff2') format('woff2');		 
+}
+
+.sans-500{
+	font-family: IRANSansX;
+	font-weight: 500;
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 600;
+	src: url('/assets/fonts/iransans/woff/IRANSansX-DemiBold.woff') format('woff'),   
+	url('/assets/fonts/iransans/woff2/IRANSansX-DemiBold.woff2') format('woff2');	 
+}
+
+.sans-600{
+	font-family: IRANSansX;
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 800;
+	src: url('/assets/fonts/iransans/woff/IRANSansX-ExtraBold.woff') format('woff'),   
+	url('/assets/fonts/iransans/woff2/IRANSansX-ExtraBold.woff2') format('woff2');		 
+}
+
+.sans-800{
+	font-family: IRANSansX;
+	font-weight: 800;
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 900;
+	src: url('/assets/fonts/iransans/woff/IRANSansX-Black.woff') format('woff'),   
+	url('/assets/fonts/iransans/woff2/IRANSansX-Black.woff2') format('woff2');		 
+}
+
+.sans-900{
+	font-family: IRANSansX;
+	font-weight: 900;
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 950;
+	src: url('/assets/fonts/iransans/woff/IRANSansX-ExtraBlack.woff') format('woff'),   
+	url('/assets/fonts/iransans/woff2/IRANSansX-ExtraBlack.woff2') format('woff2');		 
+}
+
+.sans-950{
+	font-family: IRANSansX;
+	font-weight: 950;
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 1000;
+	src: url('/assets/fonts/iransans/woff/IRANSansX-Heavy.woff') format('woff'),   
+	url('/assets/fonts/iransans/woff2/IRANSansX-Heavy.woff2') format('woff2');		 
+}
+
+.sans-1000{
+	font-family: IRANSansX;
+	font-weight: 1000;
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: bold;
+	src: url('/assets/fonts/iransans/woff/IRANSansX-Bold.woff') format('woff'),   
+	url('/assets/fonts/iransans/woff2/IRANSansX-Bold.woff2') format('woff2');	 
+}
+
+.sans-bold{
+	font-family: IRANSansX;
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: normal;
+	src: url('/assets/fonts/iransans/woff/IRANSansX-Regular.woff') format('woff'),   
+	url('/assets/fonts/iransans/woff2/IRANSansX-Regular.woff2') format('woff2');	
+}
+
+.sans-normal{
+	font-family: IRANSansX;
+	font-weight: normal;
+}
+
+
